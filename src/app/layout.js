@@ -91,6 +91,7 @@ export default function RootLayout({ children }) {
                 <a
                   className="border-[#a0a0a0a6] border-b text-[#646464] cursor-pointer hover:text-[#0052D9] border-dashed hover:border-none transition-colors"
                   href="https://www.tencent.com/en-us/index.html"
+                  target="_blank"
                 >
                   Tencent
                 </a>{" "}
